@@ -30,6 +30,9 @@ Good mood
 - Support for incremental updates (stream, ...)
 - iOS, macOS, AppleTV, watchOS, Linux support
 
+## Donation
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=92Z6U3LBHF9J4) to make the CryptoSwift awesome! Thank you.
+
 #### Hash (Digest)
 - [MD5](http://tools.ietf.org/html/rfc1321)
 - [SHA1](http://tools.ietf.org/html/rfc3174)
