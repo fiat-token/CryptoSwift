@@ -1329,7 +1329,7 @@
 				756B66AA1F6AAFDB00DEC41C /* Test */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		754BE46B19693E190098E6F3 /* Build configuration list for PBXNativeTarget "CryptoSwift" */ = {
 			isa = XCConfigurationList;
@@ -1342,7 +1342,7 @@
 				756B66AB1F6AAFDB00DEC41C /* Test */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		754BE46E19693E190098E6F3 /* Build configuration list for PBXNativeTarget "Tests" */ = {
 			isa = XCConfigurationList;
@@ -1355,7 +1355,7 @@
 				756B66AC1F6AAFDB00DEC41C /* Test */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 /* End XCConfigurationList section */
 	};
